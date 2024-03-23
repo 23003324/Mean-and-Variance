@@ -77,7 +77,8 @@ print("The standard deviation of arrival deom feeder is %.3f"%SD)
 
 # Output : 
 
-![image](https://github.com/23003324/Mean-and-Variance/assets/140035234/a8e6fa6f-3807-46d2-b041-f39b904a4c45)
+![image](https://github.com/23003324/Mean-and-Variance/assets/140035234/0b75077c-29c5-4299-86f0-b8dcd2b9593f)
+
 
 
 # Results :
